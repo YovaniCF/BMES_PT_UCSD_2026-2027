@@ -1,5 +1,5 @@
-const int trigPin = 9;
-const int echoPin = 10;
+const int trigPin = 10;
+const int echoPin = 9;
 const int greenLed = 3;  // Or other color
 const int yellowLed = 4;
 const int redLed = 5;
